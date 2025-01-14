@@ -1,27 +1,25 @@
 {
     "routes": [
-        {
-            "src": "/",
-            "dest": "/"
-        },
-        {
-            "src": "/result",
-            "dest": "/"
-        },
-        {
-            "src": "/form",
-            "dest": "/"
-        },
-
-        {
-            "src": "/how",
-            "dest": "/"
-        },
-
-        {
-            "src": "/about",
-            "dest": "/"
-        }
-
+      {
+        "src": "/",
+        "dest": "/"
+      },
+      {
+        "src": "/result/:school/:className/:shift/:year/:subject/:percentage",
+        "dest": "/"
+      },
+      {
+        "src": "/form",
+        "dest": "/"
+      },
+      {
+        "src": "/how",
+        "dest": "/"
+      },
+      {
+        "src": "/about",
+        "dest": "/"
+      }
     ]
-}
+  }
+  
