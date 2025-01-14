@@ -1,0 +1,4291 @@
+{
+    "PhysicalSciences": {
+      "24-1-Cms": {
+        "Lang FRN/GER/SAN/TAM/AE/K/H/IK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CS": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "STAT": [
+          "monday",
+          "wednesday",
+          "thursday"
+        ],
+        "MATH": [
+          "monday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "24-2-PcmA": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "PHY": [
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "CS": [
+          "wednesday",
+          "wednesday",
+          "saturday"
+        ],
+        "MATH": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-2-PmcB": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "MATH": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "PHY": [
+          "monday",
+          "wednesday",
+          "saturday"
+        ],
+        "CS": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-2-Mec": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "CS": [
+          "monday",
+          "thursday",
+          "saturday"
+        ],
+        "EL": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "MATH": [
+          "monday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "24-2-Ems": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "STAT": [
+          "monday",
+          "wednesday",
+          "saturday"
+        ],
+        "ECO": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "MATH": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-2-Pcm": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "PHY": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ],
+        "CHEM": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ],
+        "MATH": [
+          "tuesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "24-2-Pem": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "PHY": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ],
+        "EI": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "MATH": [
+          "tuesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "23-1-StatMath": {
+        "Lang FRN/GER/SAN/TAM/AE/K/H/IK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "MATH": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "STAT": [
+          "wednesday",
+          "friday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-StatCS": {
+        "Lang FRN/GER/SAN/TAM/AE/K/H/IK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "CS": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "STAT": [
+          "wednesday",
+          "friday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-PhyMath": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "MATH": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "PHY": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-PhyChem": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CHEM": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "PHY": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-EcoStat": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "STAT": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "ECO": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-ElCs": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CS": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "EL": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-MathCs": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CS": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "MATH": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "friday"
+        ]
+      },
+      "22-1-StatCs": {
+        "STAT": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "CS": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "friday"
+        ]
+      },
+      "22-1-StatMath": {
+        "MATH": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "STAT": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-1-PhyMath": {
+        "MATH": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "PHY": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-PhyMath": {
+        "PHY": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "MATH": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-PhyChem": {
+        "PHY": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "CHEM": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-EcoStat": {
+        "STAT": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "ECO": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-ElCs": {
+        "EL": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "CS": [
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "22-2-MathCS": {
+        "CS": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "MATH": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday"
+        ]
+      }
+    },
+    "LifeSciences": {
+      "23-2-BotanyZoology": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BOT-A": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "ZOO-A": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "23-2-BiologyMicrobiology": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "MICRO": [
+          "monday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "BOT-B": [
+          "wednesday",
+          "thursday"
+        ],
+        "ENS": [
+          "thursday"
+        ],
+        "ZOO-B": [
+          "thursday",
+          "friday"
+        ]
+      },
+      "23-2-BiologyEvs": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ENS": [
+          "monday",
+          "monday",
+          "thursday",
+          "thursday"
+        ],
+        "BOT-B": [
+          "wednesday",
+          "thursday"
+        ],
+        "ZOO-B": [
+          "thursday",
+          "friday"
+        ]
+      },
+      "23-2-BiologyBiotech": {
+        "Lang FRN/GER/SAN/TAM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANG AE/K/H/IK": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BT-A": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "BOT-C": [
+          "thursday",
+          "saturday"
+        ],
+        "ZOO-C": [
+          "wednesday",
+          "friday"
+        ]
+      },
+      "22-2-BiologyEVS": {
+        "ENS": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "BIO": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-BotanyZoo": {
+        "BOT-A": [
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "ZOO-A": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday",
+          "saturday"
+        ]
+      },
+      "22-2-BiologyMicrobio": {
+        "Micro-B": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "Bio-B": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-BiologyBiotech": {
+        "Bio": [
+          "monday",
+          "tuesday",
+          "tuesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "BT-A": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday",
+          "saturday"
+        ]
+      }
+    },
+    "SocialWork": {
+      "24-1-BSW": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE,K,H": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F,SK,IF,IK,T": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "SW2121": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "SW2221": [
+          "monday",
+          "tuesday",
+          "saturday",
+          "saturday"
+        ],
+        "IC/GC": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday"
+        ],
+        "Mentoring": [
+          "wednesday"
+        ]
+      },
+      "23-1-BSW": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE,K,H,IK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F,SK,T": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "IC/GC": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday"
+        ],
+        "Mentoring": [
+          "saturday"
+        ],
+        "SW4222": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "SW4122": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ]
+      },
+      "22-1-BSW": {
+        "IC/GC": [
+          "monday",
+          "monday",
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "wednesday",
+          "wednesday",
+          "saturday"
+        ],
+        "Mentoring": [
+          "tuesday",
+          "saturday"
+        ],
+        "SW6222": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "SW6122": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "SWDE6322": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "SWDE6422": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      }
+    },
+    "ChemicalScience": {
+      "24-1-CMB": {
+        "2Lang AE/KAN/HIN": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/G/SK/T/IK/IF,IS": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BioA": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BioChemA": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "MicroA": [
+          "monday",
+          "friday",
+          "friday"
+        ]
+      },
+      "24-1-CTB": {
+        "2Lang AE/KAN/HIN": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/G/SK/T/IK/IF,IS": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BioA": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BioChemA": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BT": [
+          "monday",
+          "tuesday",
+          "friday"
+        ]
+      },
+      "241CTZ": {
+        "2Lang AE/KAN/HIN": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/G/SK/T/IK/IF,IS": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ZooA": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "BioChemB": [
+          "tuesday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BT": [
+          "monday",
+          "tuesday",
+          "friday"
+        ]
+      },
+      "241CMZ": {
+        "2Lang AE/KAN/HIN": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/G/SK/T/IK/IF,IS": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ZooA": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "BioChemB": [
+          "tuesday",
+          "tuesday",
+          "wednesday"
+        ],
+        "MicroA": [
+          "monday",
+          "friday",
+          "friday"
+        ]
+      },
+      "242CMB": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "BioC": [
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "MicroB": [
+          "tuesday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ChemA": [
+          "monday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "242CBZ": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "ZooB": [
+          "monday",
+          "friday",
+          "saturday"
+        ],
+        "BOTA": [
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "ChemB": [
+          "tuesday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "242CTB": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "BTB": [
+          "monday",
+          "thursday",
+          "saturday"
+        ],
+        "BioB": [
+          "thursday",
+          "thursday",
+          "friday"
+        ],
+        "ChemB": [
+          "friday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "242CBT": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "BTC": [
+          "monday",
+          "thursday",
+          "saturday"
+        ],
+        "BOTB": [
+          "thursday",
+          "thursday",
+          "friday"
+        ],
+        "ChemC": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "242CZT": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "BTB": [
+          "monday",
+          "thursday",
+          "saturday"
+        ],
+        "ZOOA": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "ChemD": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ]
+      },
+      "242CPM": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "Phy": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ],
+        "Math": [
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "ChemD": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ]
+      },
+      "242CEB": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "BioB": [
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "ChemE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "ENS": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "242CEZ": {
+        "2Lang AE/IK/K/H/G/IF/IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2Lang G/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "ZooB": [
+          "monday",
+          "friday",
+          "saturday"
+        ],
+        "ChemE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "ENS": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "231BM": {
+        "2Lang AE/IK/K/H": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "BioChem": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "MicroA": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ]
+      },
+      "231BT": {
+        "2Lang AE/IK/K/H": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "BioChem": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "BTA": [
+          "thursday",
+          "friday",
+          "friday"
+        ]
+      },
+      "231CZ": {
+        "2Lang AE/IK/K/H": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "BioChem": [
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "ZooD": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "232CP": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE/IK/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "2lang F": [
+          "monday",
+          "wednesday"
+        ],
+        "ChemA": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "Phy": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "232CE": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE/IK/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "2lang F": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ChemB": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "Phy": [
+          "monday",
+          "monday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "232CB": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE/IK/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "2lang F": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ChemA": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "MicroB": [
+          "monday",
+          "thursday",
+          "friday",
+          "friday"
+        ]
+      },
+      "232CT": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE/IK/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "2lang F": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ChemB": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "BTB": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "232CZ": {
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang F/T/SK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "2Lang AE/IK/K/H": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "2lang F": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ChemB": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "ZooA": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "221CT": {
+        "BioChem": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "BTA": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday",
+          "saturday"
+        ]
+      },
+      "221CM": {
+        "BioChem": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "MicroA": [
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "221CZ": {
+        "BioChem": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "ZooB": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "222CP": {
+        "ChemA": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "Phy": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "222CE": {
+        "ChemA": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "ES": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "222CB": {
+        "ChemA": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "MicroB": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "222CT": {
+        "ChemB": [
+          "monday",
+          "monday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "BTB": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday"
+        ]
+      },
+      "222CZ": {
+        "ChemB": [
+          "monday",
+          "monday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "ZooB": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      }
+    },
+    "Communication&Media": {
+      "24-1-BAVC": {
+        "AE/K/H/IK/F/G/S/T/IF/IS": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ND": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "AMV": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ],
+        "AM": [
+          "tuesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "23-1-BAVC": {
+        "AM": [
+          "monday",
+          "monday",
+          "saturday"
+        ],
+        "AC1": [
+          "monday",
+          "monday",
+          "thursday",
+          "thursday"
+        ],
+        "AC2": [
+          "wednesday",
+          "wednesday",
+          "saturday",
+          "saturday"
+        ],
+        "JG1/JG2": [
+          "tuesday",
+          "tuesday",
+          "friday",
+          "friday"
+        ],
+        "MC": [
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "TK": [
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ]
+      },
+      "24-1-BVOC": {
+        "SPK": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "JG1": [
+          "wednesday",
+          "wednesday",
+          "friday",
+          "friday"
+        ],
+        "JG2": [
+          "monday",
+          "monday",
+          "thursday",
+          "thursday"
+        ],
+        "MP": [
+          "monday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "PS": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-BVOC": {
+        "MP": [
+          "monday",
+          "monday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "AMV": [
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "MC1": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "thursday",
+          "thursday"
+        ],
+        "MC2": [
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "AC": [
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "friday",
+          "friday",
+          "saturday",
+          "saturday"
+        ]
+      },
+      "24-1-BVOCDigital": {
+        "GT": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "thursday",
+          "thursday"
+        ],
+        "SB/SM_AS": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "friday",
+          "friday"
+        ],
+        "CS_VD": [
+          "monday",
+          "monday",
+          "wednesday",
+          "wednesday",
+          "friday",
+          "friday"
+        ],
+        "RS_AM": [
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "MP_DP_ND": [
+          "monday",
+          "monday",
+          "wednesday",
+          "wednesday",
+          "friday",
+          "friday"
+        ],
+        "FA_MC": [
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "CA_CD_ND": [
+          "tuesday",
+          "tuesday",
+          "saturday",
+          "saturday"
+        ],
+        "BVC_Theater": [
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "Sound_Studio": [
+          "thursday",
+          "thursday"
+        ]
+      },
+      "23-1-BVOCDigital": {
+        "Fundamentals_of_RM_SPK": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "Fundamentals_of_RM_RR": [
+          "tuesday",
+          "thursday"
+        ],
+        "Pre_Production_ND": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "UI_UX_SS": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "Showreel_AS": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "friday",
+          "friday",
+          "saturday",
+          "saturday"
+        ],
+        "Animation_Lab": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday",
+          "saturday"
+        ]
+      }
+    },
+    "Humanities": {
+      "24-2-BaIes": {
+        "Lang (T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang (AE/K/H/G/F)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "ECO": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "thursady",
+          "friday"
+        ],
+        "SOC": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "IR": [
+          "monday",
+          "thursday",
+          "friday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "24-2-BaHep": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "POL(BP)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "HIS(PN)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "ECO(CLD)": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "Lang(AE/K/H/G/F)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ]
+      },
+      "24-2-BaCpe": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ECO(SM)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "CE": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "thursday"
+        ],
+        "Lang(AE/K/H/G/F)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "POL(ATV)": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-2-BaEps": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "ECO(CLD)": [
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday"
+        ],
+        "Lang(AE/K/H/G/F)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "POL(PES)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "SOC(DM)": [],
+        "SOC(ML)": [
+          "tuesday",
+          "friday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-2-BaHps": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang(AE/K/H/G/F)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "SOC(DM)": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday",
+          "friday"
+        ],
+        "POL(RS)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "HIS(JD)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "24-2-BaJip": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang(AE/K/H/G/F)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "PP(AV)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "JNIBSV": [
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "IRP(KA)": [
+          "wednesday",
+          "thursday",
+          "saturday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "24-2-BaOejpA": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang(K/H/AE/F/G/IF/IS)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "OE B1": [
+          "monday",
+          "monday",
+          "friday"
+        ],
+        "OE B2": [
+          "tuesday",
+          "tuesday",
+          "saturday"
+        ],
+        "OE B3": [
+          "wednesday",
+          "wednesday",
+          "friday"
+        ],
+        "OE II": [
+          "monday",
+          "thursday",
+          "saturday"
+        ],
+        "JN_II": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "PSY_II": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "24-2-BaOejpB": {
+        "Lang(T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "JN I": [
+          "monday",
+          "saturday"
+        ],
+        "PSY I": [
+          "monday",
+          "monday",
+          "thursday"
+        ],
+        "OE B3": [
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "OE B1": [
+          "wednesday",
+          "wednesday",
+          "thursday"
+        ],
+        "OE B2": [
+          "wednesday",
+          "wednesday",
+          "thursday"
+        ],
+        "OE II": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "LANG KHAE-FGIFIS": [
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "24-1-BaOjp": {
+        "Lang(K/H/AE/F/G/S/T/IF/IK/IS)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "OE(SS)": [
+          "monday",
+          "tuesday",
+          "saturday"
+        ],
+        "PSY": [
+          "monday",
+          "tuesday",
+          "thursday"
+        ],
+        "JN(VN)": [
+          "wednesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "24-1-BaTop": {
+        "LANG_KHAE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "TS_II": [
+          "monday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "PYS_II": [
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "OE II": [
+          "tuesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "23-2-BaEi": {
+        "Lang(AE/H/K/IK/F/T/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "IR(AL)": [
+          "monday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "IR(MK)": [
+          "tuesday"
+        ],
+        "IR(ML)": [
+          "thursday"
+        ],
+        "ECO(AK)": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday",
+          "monday",
+          "tuesday"
+        ]
+      },
+      "23-2-BaEs": {
+        "Lang(F/T/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang(AE/H/K/IK)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "STAT": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "ECO(AK)": [
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "ECO(NJ)": [
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "23-2-BaJi": {
+        "L2_Frn_Tam_San_Ger": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANAE_HIN_KAN_IK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "JNI_IV": [
+          "monday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ],
+        "IRP_KA": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "IRP_NH": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-BaPc": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "POL(RS)": [
+          "monday",
+          "tuesday",
+          "friday"
+        ],
+        "POL(BP)": [
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "CE": [
+          "monday",
+          "monday",
+          "tuesday",
+          "thursday"
+        ]
+      },
+      "23-2-BaPh": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "HIS(PN)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "POL(BP)": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "HIS(JD)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-BaIp": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "INP(NH)": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "PP(AV)": [
+          "monday",
+          "wednesday",
+          "thursday"
+        ],
+        "PP(NH)": [
+          "wednesday",
+          "friday"
+        ],
+        "INP(KA)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "23-2-BaJp": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "PSY": [
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday"
+        ],
+        "JN(VN)": [
+          "monday",
+          "thursday",
+          "wednesday",
+          "thursday"
+        ]
+      },
+      "23-2-BaHs": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "SOC(ML)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "SOC(DM)": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "HIS(PN)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "HIS(JD)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-BaEp": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "ECO(CLD)": [
+          "monday",
+          "tuesday",
+          "thursday"
+        ],
+        "ECO(LA)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "POL(ATV)": [
+          "monday",
+          "tuesday",
+          "friday"
+        ],
+        "POL(RS)": [
+          "monday",
+          "tuesday",
+          "thursday"
+        ]
+      },
+      "23-2-BaOj": {
+        "L2_Frn_Tam_San_Ger": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LANAE_HIN_KAN_IK": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "OE_IV": [
+          "monday",
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "JN_IV": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday"
+        ],
+        "OE_RS_B1_B2": [
+          "tuesday",
+          "tuesday",
+          "tuesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-2-BaOp": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "OE(MMB)": [
+          "wednesday"
+        ],
+        "OE RS(ND)1": [
+          "monday",
+          "monday",
+          "saturday"
+        ],
+        "OE RS(ND)2": [
+          "tuesday",
+          "tuesday",
+          "saturday"
+        ],
+        "OE RS(ND)3": [
+          "wednesday",
+          "wednesday",
+          "saturday"
+        ],
+        "OE IV": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "PSY": [
+          "tuesday",
+          "thursday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "23-1-BaOp": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "OE RS(LA)1": [
+          "monday",
+          "monday",
+          "monday"
+        ],
+        "OE RS(CB)2": [
+          "thursday",
+          "thursday"
+        ],
+        "OE RS(MP)3": [
+          "saturday",
+          "saturday"
+        ],
+        "PSY": [
+          "tuesday",
+          "tuesday",
+          "friday",
+          "friday"
+        ],
+        "OE IV": [
+          "tuesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "23-1-BaTp": {
+        "Lang(AE/H/K/IK/T/F/S/G)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "PSY": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "TS": [
+          "tuesday",
+          "thursday",
+          "saturday",
+          "saturday"
+        ]
+      },
+      "22-2-BaCp": {
+        "POL(RS)": [
+          "monday",
+          "wednesday",
+          "thursday"
+        ],
+        "POL(BP)": [
+          "monday",
+          "tuesday"
+        ],
+        "POL(VW)": [
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "CE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday"
+        ]
+      },
+      "22-2-BaEp": {
+        "POL(RS)": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "POL(PES)": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "POL(ATV)": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "ECO(KM)": [
+          "monday",
+          "tuesday",
+          "friday"
+        ],
+        "ECO(KD)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "ECO(AK)": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "ECO(BR)": [
+          "tuesday"
+        ]
+      },
+      "22-2-BAEi": {
+        "IR(AL)": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday",
+          "saturday"
+        ],
+        "ECO(KD)": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "ECO(PP)": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "ECO(KM)": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ]
+      },
+      "22-2-BaHs": {
+        "HIS(JN)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "SOC(DM)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "SOC(ML)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "HIS(JD/PN)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "HIS(PN)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-BaEs": {
+        "ECO(TB)": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "ECO(SM)": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "STAT": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "ECO(KD)": [
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "ECO(BR)": [
+          "thursday"
+        ]
+      },
+      "22-2-BaJp": {
+        "JN(VN)": [
+          "monday",
+          "monday"
+        ],
+        "JN(DR)": [
+          "tuesday",
+          "saturday"
+        ],
+        "JN(NT)": [
+          "tuesday"
+        ],
+        "PSY": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "JN(AP)": [
+          "saturday"
+        ]
+      },
+      "22-2-BaPh": {
+        "HIS(JN)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "POL(ATV)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "POL(PES)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "HIS(JD/PN)": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "HIS(PN)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-2-BaOp": {
+        "OE": [
+          "monday",
+          "monday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "PSY": [
+          "monday",
+          "monday",
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday"
+        ],
+        "OE(RS)B1/B2": [
+          "tuesday",
+          "tuesday",
+          "tuesday",
+          "friday",
+          "friday",
+          "friday"
+        ],
+        "OE(RS)B3": [
+          "tuesday",
+          "friday",
+          "saturday",
+          "saturday"
+        ]
+      },
+      "22-1-BaOp": {
+        "OE(DR)": [
+          "monday"
+        ],
+        "OE(RS)B1": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "OE(RS)B2": [
+          "monday",
+          "wednesday",
+          "wednesday",
+          "saturday",
+          "saturday",
+          "saturday"
+        ],
+        "OE(RS)B3": [
+          "monday",
+          "thursday",
+          "thursday",
+          "friday",
+          "friday",
+          "saturday"
+        ],
+        "OE(AB)": [
+          "tuesday",
+          "tuesday"
+        ],
+        "OE(DA)": [
+          "wednesday",
+          "friday"
+        ],
+        "OE(PH)": [
+          "thursday"
+        ],
+        "PSY": [
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-1-BaTp": {
+        "TS(MMB)": [
+          "monday",
+          "friday"
+        ],
+        "TS(VJ)": [
+          "monday"
+        ],
+        "TS(NT)": [
+          "tuesday"
+        ],
+        "PSY": [
+          "tuesday",
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday",
+          "friday"
+        ],
+        "TS(SS)": [
+          "friday",
+          "friday"
+        ]
+      }
+    },
+    "IT": {
+      "22-2-BCA": {
+        "AI": [
+          "monday",
+          "friday",
+          "saturday"
+        ],
+        "POWER BI": [
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "IOT": [
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "MA-PO": [
+          "monday",
+          "tuesday",
+          "thursday"
+        ],
+        "SE-SP": [
+          "monday",
+          "tuesday",
+          "thursday"
+        ]
+      },
+      "23-2-BCA": {
+        "Lang (G/T/SK/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang (AE/K/H/1K)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "LANG-FRN": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "PY-SK": [
+          "monday",
+          "wednesday",
+          "thursday"
+        ],
+        "OS -BO": [
+          "tuesday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CAM -BA": [
+          "wednesday",
+          "thursday",
+          "saturday"
+        ]
+      },
+      "24-2-BCA": {
+        "DS": [
+          "monday",
+          "tuesday",
+          "friday"
+        ],
+        "Java": [
+          "monday",
+          "wednesday",
+          "thursday"
+        ],
+        "ST": [
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "math": [
+          "saturday",
+          "monday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "2lang": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ]
+      },
+      "24-1-BCADA": {
+        "2124": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "2224": [
+          "tuesday",
+          "friday",
+          "friday"
+        ],
+        "2324": [
+          "monday",
+          "thursday",
+          "saturday"
+        ],
+        "2424": [
+          "monday",
+          "thursay",
+          "saturday"
+        ],
+        "Lang (AE, KAN, HIN)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "Lang (FRN, GER, SAN, TAM, IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "23-1-BCADA": {
+        "4122": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "4222": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "4322": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "LANG (Frn/Tam/San)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "LAN (K/H/AE/IK)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "24-2-BCADA": {
+        "6123": [
+          "thursday",
+          "friday",
+          "friday"
+        ],
+        "6223": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "6323": [
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "6423": [
+          "monday",
+          "tuesday",
+          "tuesday"
+        ],
+        "6523": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      }
+    },
+    "Business": {
+      "24-1-BcomA": {
+        "CAC": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "MM": [
+          "monday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "QMDM": [
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "Lang (K,H,AE, G,F,T,S,I..K,IF,IS)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "24-1-BcomB": {
+        "CAC": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "Lang (K,H,AE, G,F,T,S,I..K,IF,IS)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "QMDM": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "MM": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-1-BcomC": {
+        "CAC": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "Lang (K,H,AE, G,F,T,S,I..K,IF,IS)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "MM": [
+          "monday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "QMDM": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-1-BcomBps": {
+        "MM": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "Lang (K,H,AE, G,F,T,S,I..K,IF,IS)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CAC": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "QMDM": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-1-BcomIfa": {
+        "PM1": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "TAX": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "FR1": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "Lang (K,H,AE, G,F,T,S,I..K,IF,IS)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ]
+      },
+      "23-1-BcomA": {
+        "BL": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "CF": [
+          "monday",
+          "tuesday",
+          "friday"
+        ],
+        "COA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "LAN Frn/Tam/San/German": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BCE": [
+          "wednesday",
+          "friday"
+        ],
+        "LAN AE/Hin/KAN/IK": [
+          "thursday",
+          "friday"
+        ]
+      },
+      "23-1-BcomB": {
+        "CF": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "COA": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "LAN Frn/Tam/San/German": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "BL": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "BCE": [
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "LAN AE/Hin/KAN/IK": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-BcomC": {
+        "COA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "CF": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "LAN Frn/Tam/San/German": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "BL": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "BCE": [
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "LAN AE/Hin/KAN/IK": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-BcomBps": {
+        "COA": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "LAN Frn/Tam/San/German": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "BBPS": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "REMR": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "BCE": [
+          "thursday",
+          "friday"
+        ],
+        "LAN AE/Hin/KAN/IK": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-BcomIfa": {
+        "BCE": [
+          "monday",
+          "saturday"
+        ],
+        "SBL 1": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "MM": [
+          "monday",
+          "wednesday",
+          "friday",
+          "thursday"
+        ],
+        "SBR 1": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "ACCA Tutor Session": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "FM 2": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "IB": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "22-1-BcomA": {
+        "FMO": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday"
+        ],
+        "IT 2": [
+          "monday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "E2": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "MAA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "GST": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "PPA": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "E1": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "22-1-BcomB": {
+        "IT 2": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "PPA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "GST": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "E2": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "FMO": [
+          "monday",
+          "tuesday"
+        ],
+        "MAA": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "E1": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ]
+      },
+      "22-1-BcomC": {
+        "MAA": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "IT_2": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "PPA": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "GST": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "FMO": [
+          "wednesday",
+          "wednesday",
+          "thursday",
+          "thursday"
+        ],
+        "E1": [
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "E2": [
+          "monday",
+          "wednesday",
+          "thursday"
+        ]
+      },
+      "22-1-BcomBps": {
+        "IT_2": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "MAA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "IAPM": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "PPA": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "SCM": [
+          "monday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "FMO": [
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "wednesday"
+        ],
+        "GST": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-1-BcomIfa": {
+        "AFM_2": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "PF": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "IAPM_FT": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "APM2_AAA2": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "PPI": [
+          "monday",
+          "tuesday"
+        ],
+        "GE": [
+          "tuesday",
+          "wednesday"
+        ],
+        "FMO": [
+          "thursday",
+          "thursday",
+          "friday",
+          "friday"
+        ]
+      },
+      "24-2-BcomD": {
+        "Lang_TS": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "QMDM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "thursday",
+          "friday"
+        ],
+        "CAC": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "MM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "Lang_AE_K_HG_FIK_IF_IS": [
+          "tuesday",
+          "wednesday",
+          "friday"
+        ]
+      },
+      "23-2-BcomD": {
+        "L2_Frn_Tam_San": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "L2_KAN_HIN_AE_IK_GM": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BL": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "COA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "CF": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "BCE": [
+          "thursday",
+          "friday"
+        ]
+      },
+      "22-2-BcomD": {
+        "AA2_IAPM_DM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "GST": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "PPA": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "FMO": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "MAA": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "IT_2": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "FT_CT_SM": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-1-BbaA": {
+        "QT": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "HRM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "LANG_AE_H_K_IK_G_F_S_T": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "CA": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-1-BbaB": {
+        "HRM": [
+          "monday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "CA_B": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "LANG_AE_H_K_IK_G_F_S_T": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "QT": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "24-1-BbaSf": {
+        "QT": [
+          "monday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "HRM": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "LANG_AE_H_K_IK_G_F_S_T": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "FR": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-BbaA": {
+        "POM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "DM": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "FM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "L2(Frn/Tam/San/German)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "L2(AE/Hin/KAN)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "BCE": [
+          "tuesday",
+          "saturday"
+        ]
+      },
+      "23-1-BbaB": {
+        "POM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "DM": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "FM": [
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "L2(Frn/Tam/San/German)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "BCE": [
+          "tuesday",
+          "saturday"
+        ],
+        "LAN(AE/Hin/KAN)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "23-1-BbaSf": {
+        "FDM-II": [
+          "monday",
+          "monday",
+          "tuesday",
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday",
+          "saturday"
+        ],
+        "BO": [
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "DM": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "saturday"
+        ],
+        "L2(Frn/Tam/San/German)": [
+          "monday",
+          "tuesday",
+          "wednesday"
+        ],
+        "GE": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "BCE": [
+          "thursday",
+          "friday"
+        ],
+        "LAN(AE/Hin/KAN)": [
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-1-BbaA": {
+        "PBL": [
+          "monday",
+          "tuesday"
+        ],
+        "BT": [
+          "monday",
+          "wednesday",
+          "thursday",
+          "friday"
+        ],
+        "RM": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "E2": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "BL": [
+          "monday",
+          "wednesday",
+          "friday"
+        ],
+        "BECG": [
+          "tuesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ],
+        "E1": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-1-BbaB": {
+        "BT": [
+          "monday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "BL": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "friday"
+        ],
+        "BECG": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday",
+          "saturday"
+        ],
+        "E2": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "RM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "PBL": [
+          "wednesday",
+          "friday"
+        ],
+        "E1": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      },
+      "22-1-BbaSf": {
+        "BL": [
+          "monday",
+          "tuesday",
+          "thursday",
+          "saturday"
+        ],
+        "BECG": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "friday"
+        ],
+        "RM": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "E2": [
+          "monday",
+          "tuesday",
+          "wednesday",
+          "thursday"
+        ],
+        "BT": [
+          "monday",
+          "tuesday",
+          "friday",
+          "saturday"
+        ],
+        "PBL": [
+          "wednesday",
+          "friday"
+        ],
+        "E1": [
+          "wednesday",
+          "thursday",
+          "friday",
+          "saturday"
+        ]
+      }
+    }
+  }
