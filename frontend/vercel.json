@@ -13,9 +13,9 @@
         "dest": "/"
       },
       {
-      "src": "/result/*", "dest": "/"
+      "src": "/result/.*", "dest": "/"
       },
-      
+
       {
         "src": "/how",
         "dest": "/"
