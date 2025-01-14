@@ -13,8 +13,9 @@
         "dest": "/"
       },
       {
-      "src": "/(.*)", "dest": "/"
+      "src": "/result/*", "dest": "/"
       },
+      
       {
         "src": "/how",
         "dest": "/"
