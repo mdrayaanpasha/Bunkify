@@ -16,7 +16,7 @@ function Home() {
   <div className="relative z-10 flex flex-col items-center justify-center text-center px-8">
     <h1 className="text-3xl font-semibold mb-4 text-white">
     Get 75% Attendance With Math    </h1>
-    <button className="mt-4 px-8 py-3 bg-white text-black mb-10 rounded-xl font-semibold shadow-md hover:shadow-xl transition duration-300 ease-in-out flex items-center justify-center" onClick={e=>window.location.href="./how"}>
+    <button className="mt-4 px-8 py-3 bg-white text-black mb-10 rounded-xl font-semibold shadow-md hover:shadow-xl transition duration-300 ease-in-out flex items-center justify-center" onClick={e=>window.location.href="/form"}>
             Try Now 
             <svg className="inline-block ml-2" width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="currentColor">
                 <path d="m15.95 9.465-8.193 8.192a1 1 0 1 1-1.414-1.414l8.192-8.193H9.878a1 1 0 1 1 0-2h7.072a1 1 0 0 1 1 1v7.071a1 1 0 1 1-2 0V9.465z"></path>
@@ -32,7 +32,7 @@ function Home() {
 
                 
                 {/* Card Section */}
-                <section className="container flex flex-wrap justify-center gap-8 mb-20 p-10">
+                <section className="container flex flex-wrap justify-center gap-8 mb-20 p-10 mt-10">
     <div className="container-card bg-lightBlack sm:w-[97vw] lg:w-[28rem] p-6 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 flex flex-col items-center text-center">
         <img className="h-60 w-full object-cover rounded-xl mb-4" src={Card1} alt="" />
         <h2 className="text-white text-2xl font-semibold mt-4">How This Works?</h2>
